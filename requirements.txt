@@ -1,0 +1,5 @@
+pyPdf==1.13
+BeautifulSoup==3.2.1
+Markdown==2.6.5
+requests==2.8.1
+
